@@ -1,3 +1,3 @@
 host CAEN
-HostName login.engin.umich.edu
-User jihoyoo
+  HostName login.engin.umich.edu
+  User jihoyoo
